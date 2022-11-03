@@ -1,0 +1,19 @@
+
+h1
+{
+	color: rgb(0, 0, 0); 
+	font-size: 40px;
+}
+.bodyBackground 
+{
+background-image: url("Jogos-Olimpicos.webp");
+background-position: center;
+background-size: cover;
+}
+
+#canvas
+{
+border-width: 10px;
+border-style: groove;
+background-color: rgb(255, 255, 255);
+}
